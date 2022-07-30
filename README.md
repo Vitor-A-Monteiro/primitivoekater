@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo! ##
 
  <div>
    <a href="https://github.com/primitivoekater">
@@ -15,7 +15,10 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  FullStack dev Junior (strong back) formado pela #CubosAcademy, GameDev  formado pela Faculdade IESB, e apreciador de cerveja preta  formado pela vida.
+ 
+ Focado não só  em programar, mas em mostrar que sei programar. codigos sempre limpos e otimizados,  levando em conta criterios como legado e arquitetura
+ 
  
 <div> 
  
