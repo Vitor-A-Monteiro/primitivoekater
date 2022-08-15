@@ -1,6 +1,7 @@
 ## Bem-vindo! ##
 
  <div>
+ [![MasterHead](https://img.freepik.com/vetores-premium/aviao-de-luzes-de-neon-brilhante-synthwave-retro_1053-1283.jpg)](https://github.com/primitivoekater)
    <a href="https://github.com/primitivoekater">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=primitivoekater&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=primitivoekater&layout=compact&langs_count=6&theme=tokyonight"/>
@@ -23,8 +24,10 @@
 <div> 
  
  
-  <a href = "mailto:primitivo.3131@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   
+<h3 align="left">Entre em contato:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/vitor-a-monteiro/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href = "mailto:primitivo.3131@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
   
 
