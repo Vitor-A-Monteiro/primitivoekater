@@ -27,7 +27,7 @@
 <h3 align="left">Entre em contato:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/vitor-a-monteiro/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href = "mailto:primitivo.3131@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:primitivo.3131@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="30" width="40" /></a>
  
   
 
