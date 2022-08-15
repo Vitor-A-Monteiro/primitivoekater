@@ -1,7 +1,7 @@
 ## Bem-vindo! ##
 
  <div>
- [![MasterHead](https://img.freepik.com/vetores-premium/aviao-de-luzes-de-neon-brilhante-synthwave-retro_1053-1283.jpg)](https://github.com/primitivoekater)
+ [![MasterHead](https://img.freepik.com/vetores-premium/aviao-de-luzes-de-neon-brilhante-synthwave-retro_1053-1283.jpg)](https://github.com/primitivoekater)]
    <a href="https://github.com/primitivoekater">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=primitivoekater&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=primitivoekater&layout=compact&langs_count=6&theme=tokyonight"/>
