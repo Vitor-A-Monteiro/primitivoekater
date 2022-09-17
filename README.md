@@ -1,5 +1,5 @@
 ## Salut! 
-<h2><strong>FullStack dev Junior (BE Heavy) by #CubosAcademy, GameDev  by #IESB,  and bookworm by heart. </strong></h2>
+<h2><strong>FullStack dev Junior by #CubosAcademy, GameDev  by #IESB,  and bookworm by heart. </strong></h2>
 
  <div>
  <div
