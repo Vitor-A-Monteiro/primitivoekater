@@ -33,7 +33,7 @@ Design:
 <img align="center" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white">
 <img align="center" src="https://img.shields.io/badge/material%20design-757575?style=for-the-badge&logo=material%20design&logoColor=white">
 <img align ="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><br>
-<be>
+<br>
 Office Work: <img align="center" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white">
 <img align="center" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 <img align="center" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
