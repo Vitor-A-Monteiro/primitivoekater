@@ -1,5 +1,5 @@
 ## Salut! 
-<h2><strong>Data Base Administrator at <a href="https://mrlbank.com.br">MRL BANK</a>,FullStack JS, Software Engenier, and sometimes GameDev by heart. </strong></h2>
+<h2><strong>Data Base Administrator at <a href="https://mrlbank.com.br">MRL BANK</a>;FullStack JS; Software Engenier; and, sometimes, GameDev by heart. </strong></h2>
 
  <div>
  <div
